@@ -1,0 +1,8 @@
+metric,value,unit_or_note
+Earth_to_Neptune_1000_share_trade_completion,16.6996,hours
+Ceres_mean_best_route_delay_h0,73.13,minutes
+Ceres_max_best_route_delay_h0,246.30,minutes (Neptune)
+three_price_copy_success,99.4215,percent
+worst_200y_sampled_best_route_delay,308.95,minutes (Neptune to Ceres near year 69.87)
+Ceres_incident_CCH_price_recovery_after_maturity,70.68,hours approximately
+Ceres_incident_remote_Mars_spendability_after_maturity,71.20,hours approximately

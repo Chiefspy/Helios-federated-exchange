@@ -1,0 +1,10 @@
+settlement,best_route,delay_minutes,24h_sampled_availability
+Mercury,M->A->Ceres,40.84,100%
+Venus,V->A->Ceres,34.73,100%
+Earth,E->A->Ceres,32.25,100%
+Mars,M->A->Ceres,30.50,100%
+Ceres,local,0.017,100%
+Jupiter,J->B->Ceres,41.35,100%
+Saturn,S->A->Ceres,75.93,100%
+Uranus,U->A->Ceres,153.79,100%
+Neptune,N->A->Ceres,247.13,100%
